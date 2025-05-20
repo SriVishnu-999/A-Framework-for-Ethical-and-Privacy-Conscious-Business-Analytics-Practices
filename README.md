@@ -7,7 +7,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square&logo=checkmarx" />
-  <img src="https://img.shields.io/badge/Paper-Type-Academic-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Business%20Ethics%20%26%20Privacy-lightgrey?style=flat-square" />
 </p>
 
